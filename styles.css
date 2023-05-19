@@ -139,13 +139,13 @@ aside span {
   :root {
     font-size: 14px;
   }
-  
+
   body {
     grid-template-columns: 1fr;
     grid-template-rows: 0.2fr 0.8fr;
-    grid-template-areas: 
-    "profile"
-    "timeline";
+    grid-template-areas:
+      "profile"
+      "timeline";
   }
 
   aside {
